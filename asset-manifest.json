@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b83fead.css",
+    "main.js": "/static/js/main.92387264.js",
+    "static/media/Dongle-Regular.ttf": "/static/media/Dongle-Regular.be19c2ab1576230dd28d.ttf",
+    "static/media/Dongle-Light.ttf": "/static/media/Dongle-Light.099c1b232ee32aedbc6d.ttf",
+    "index.html": "/index.html",
+    "main.9b83fead.css.map": "/static/css/main.9b83fead.css.map",
+    "main.92387264.js.map": "/static/js/main.92387264.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b83fead.css",
+    "static/js/main.92387264.js"
+  ]
+}
